@@ -4,7 +4,7 @@ This gem adds jsRender (next generation of jQuery Templates) and a corresponding
 
 ## Installation
 
-Add it to your Gemfile and run `bundle` or run `gem install jsRender-rails`.
+Add it to your Gemfile and run `bundle` or run `gem install jsrender-rails`.
 
 ## Usage
 
